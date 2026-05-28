@@ -1,3 +1,7 @@
 # IMC.PYTHON
 
-![imagemIMC](
+## sobre o projeto. . .
+o projeto mostra seu IMC
+
+![imagemIMC](image.png).
+
